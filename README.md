@@ -36,6 +36,3 @@ What it shows:
 * Top 5 product categories by review score
 * Customer distribution by state (São Paulo and Rio de Janeiro dominate)
 
-## Files
-Technical_Submission_Final.ipynb — full analysis notebook (data prep, EDA, statistical modeling, machine learning)
-images/powerbi_dashboard.png — Power BI dashboard screenshot
