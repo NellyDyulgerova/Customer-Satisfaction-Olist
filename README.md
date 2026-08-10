@@ -5,7 +5,7 @@ Data analysis project investigating what drives customer satisfaction (CSAT) for
 
 ## Question
 
-## What factors — delivery, price, product characteristics, sellers — most influence whether a customer leaves a high review score (4-5 stars)?
+### What factors — delivery, price, product characteristics, sellers — most influence whether a customer leaves a high review score (4-5 stars)?
 
 ## Approach
 * Data prep (SQL + Python): joined 7 raw tables (orders, items, customers, products, reviews, sellers), cleaned inconsistent categories, timestamps, and missing values.
