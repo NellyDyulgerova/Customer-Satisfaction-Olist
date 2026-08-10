@@ -1,6 +1,6 @@
-*Customer Satisfaction Analysis — Olist
+# Customer Satisfaction Analysis — Olist
 
-**Overview
+## Overview
 
 This project analyzes customer satisfaction for Olist, a Brazilian e-commerce marketplace, with the goal of identifying the key factors associated with customer reviews and translating the findings into actionable business recommendations.
 
@@ -8,7 +8,7 @@ The analysis combines Python, statistical analysis, exploratory data analysis, a
 
 The project focuses not only on describing customer satisfaction, but also on identifying where improvements could have the greatest impact on the customer experience.
 
-**Business Questions
+## Business Questions
 
 The analysis aims to answer the following questions:
 
@@ -34,7 +34,7 @@ The dataset includes multiple related tables covering:
 
 These datasets were combined and prepared for analysis to create a more comprehensive view of the customer journey — from purchase and delivery to the final customer review.
 
-** Analysis Approach
+## Analysis Approach
 1. Data Preparation
 
 The analysis begins with data loading and preparation using Pandas.
@@ -71,7 +71,7 @@ Particular attention is given to the relationship between delivery experience an
 
 The analysis compares customer satisfaction across different operational and commercial segments to identify areas with stronger and weaker performance.
 
-** Key Insights
+## Key Insights
 
 The analysis highlights several important patterns in customer satisfaction:
 
@@ -82,7 +82,7 @@ Low-rated orders can provide useful signals for identifying areas where the busi
 
 The detailed analysis, visualizations, and supporting calculations are available in the project notebook.
 
-** Business Recommendations
+## Business Recommendations
 
 Based on the analysis, Olist could focus on the following areas:
 
@@ -102,7 +102,7 @@ Based on the analysis, Olist could focus on the following areas:
 
 * Customer reviews can complement traditional operational KPIs by providing direct feedback on the outcome experienced by the customer.
 
-** Tools & Technologies
+## Tools & Technologies
 
 Python
 Pandas
@@ -112,7 +112,7 @@ Seaborn
 SciPy
 Scikit-learn
 
-** Analysis
+## Analysis
 
 Data cleaning & preparation
 Exploratory Data Analysis (EDA)
