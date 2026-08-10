@@ -24,7 +24,7 @@ Improving delivery speed and reliability — especially avoiding delays past the
 ## Power BI Dashboard
 To complement the Python/SQL analysis, I built an interactive Power BI dashboard to make the findings accessible to non-technical stakeholders.
 
-![Power BI Dashboard](images/Olist Dashboard_Overview.png)
+![Power BI Dashboard](images/powerbi_dashboard.png)
 
 What it shows:
 
