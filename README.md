@@ -12,15 +12,14 @@ The project focuses not only on describing customer satisfaction, but also on id
 
 The analysis aims to answer the following questions:
 
-What factors are most strongly associated with customer satisfaction?
-How does delivery performance affect customer reviews?
-Which product categories receive the highest and lowest ratings?
-How does the customer experience vary across different dimensions of the Olist marketplace?
-Where should the business prioritize improvements to increase customer satisfaction?
-Dataset
+### What factors are most strongly associated with customer satisfaction?
+### How does delivery performance affect customer reviews?
+### Which product categories receive the highest and lowest ratings?
+### How does the customer experience vary across different dimensions of the Olist marketplace?
+### Where should the business prioritize improvements to increase customer satisfaction?
 
+## Dataset
 The project uses the Olist Brazilian E-Commerce Public Dataset, which contains information about orders placed between 2016 and 2018.
-
 The dataset includes multiple related tables covering:
 
 * Orders
